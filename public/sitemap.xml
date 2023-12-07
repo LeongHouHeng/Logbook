@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>https://leonghouheng.github.io/Logbook/posts/compose-231207/</loc>
     <lastmod>2023-12-07T23:39:49+09:00</lastmod>
   </url><url>
-    <loc>/posts/compose-231207/</loc>
+    <loc>https://leonghouheng.github.io/Logbook/</loc>
     <lastmod>2023-12-07T23:39:49+09:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>https://leonghouheng.github.io/Logbook/posts/</loc>
     <lastmod>2023-12-07T23:39:49+09:00</lastmod>
   </url><url>
-    <loc>/posts/hello-world/</loc>
+    <loc>https://leonghouheng.github.io/Logbook/posts/hello-world/</loc>
     <lastmod>2023-12-07T02:28:14+09:00</lastmod>
   </url><url>
-    <loc>/archives/</loc>
+    <loc>https://leonghouheng.github.io/Logbook/archives/</loc>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://leonghouheng.github.io/Logbook/categories/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://leonghouheng.github.io/Logbook/tags/</loc>
   </url>
 </urlset>
