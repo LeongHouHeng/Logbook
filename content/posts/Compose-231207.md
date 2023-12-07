@@ -10,7 +10,7 @@ draft: false
 參考了篠田元一的かっこいいコード進行108，用的chords是
 ![chords](/Screenshot%202023-12-07%20234244.png)
 
-[chords](/practice-1207.wav)
+[chords](/public/media/practice-1207.wav)
 
 
 
