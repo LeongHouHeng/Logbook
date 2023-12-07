@@ -9,14 +9,14 @@ draft: false
 
 參考了篠田元一的かっこいいコード進行108，用的chords是
 
-![chords](../../static/Screenshot%202023-12-07%20234244.png)
+![chords](/Screenshot%202023-12-07%20234244.png)
 
-[music](../../static/practice-1207.wav)
+[music](/practice-1207.wav)
 
 
 {{< rawhtml >}}
 <audio controls preload="auto">
-    <source src="../../static/practice-1207.wav">
+    <source src="/practice-1207.wav">
 </audio>
 
 {{< /rawhtml >}}
