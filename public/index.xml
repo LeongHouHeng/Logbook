@@ -1,18 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title></title>
-    <link>/</link>
-    <description>Recent content on </description>
+    <title>Logbook</title>
+    <link>https://leonghouheng.github.io/Logbook/</link>
+    <description>Recent content on Logbook</description>
+    <image>
+      <title>Logbook</title>
+      <url>https://leonghouheng.github.io/Logbook/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://leonghouheng.github.io/Logbook/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 07 Dec 2023 23:39:49 +0900</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Dec 2023 23:39:49 +0900</lastBuildDate><atom:link href="https://leonghouheng.github.io/Logbook/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Composing practice</title>
-      <link>/posts/compose-231207/</link>
+      <link>https://leonghouheng.github.io/Logbook/posts/compose-231207/</link>
       <pubDate>Thu, 07 Dec 2023 23:39:49 +0900</pubDate>
       
-      <guid>/posts/compose-231207/</guid>
+      <guid>https://leonghouheng.github.io/Logbook/posts/compose-231207/</guid>
       <description>最近在研究DTM&amp;hellip;
 參考了篠田元一的かっこいいコード進行108，用的chords是
 music</description>
@@ -20,12 +25,13 @@ music</description>
     
     <item>
       <title>Hello World</title>
-      <link>/posts/hello-world/</link>
+      <link>https://leonghouheng.github.io/Logbook/posts/hello-world/</link>
       <pubDate>Thu, 07 Dec 2023 02:28:14 +0900</pubDate>
       
-      <guid>/posts/hello-world/</guid>
+      <guid>https://leonghouheng.github.io/Logbook/posts/hello-world/</guid>
       <description>This is the first post in this site. Hello, World!</description>
     </item>
+    
     
   </channel>
 </rss>
